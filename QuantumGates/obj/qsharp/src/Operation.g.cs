@@ -4,7 +4,7 @@ using Microsoft.Quantum.Primitive;
 using Microsoft.Quantum.Simulation.Core;
 using Microsoft.Quantum.MetaData.Attributes;
 
-[assembly: OperationDeclaration("Quantum.QuantumGates", "Operation () : ()", new string[] { }, "C:\\Projects\\Quantum\\QuantumGates\\QuantumGates\\Operation.qs", 148L, 7L, 5L)]
+[assembly: OperationDeclaration("Quantum.QuantumGates", "Operation () : ()", new string[] { }, "C:\\Projects\\GitHub\\QuantumGates\\QuantumGates\\Operation.qs", 148L, 7L, 5L)]
 #line hidden
 namespace Quantum.QuantumGates
 {
