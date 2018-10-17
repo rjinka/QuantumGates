@@ -1,0 +1,10 @@
+C:\Projects\GitHub\QuantumGates\QuantumGates\obj\Debug\netcoreapp2.0\QuantumGates.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\QuantumGates\QuantumGates\obj\Debug\netcoreapp2.0\QuantumGates.AssemblyInfoInputs.cache
+C:\Projects\GitHub\QuantumGates\QuantumGates\obj\Debug\netcoreapp2.0\QuantumGates.AssemblyInfo.cs
+C:\Projects\GitHub\QuantumGates\QuantumGates\bin\Debug\netcoreapp2.0\QuantumGates.deps.json
+C:\Projects\GitHub\QuantumGates\QuantumGates\bin\Debug\netcoreapp2.0\QuantumGates.runtimeconfig.json
+C:\Projects\GitHub\QuantumGates\QuantumGates\bin\Debug\netcoreapp2.0\QuantumGates.runtimeconfig.dev.json
+C:\Projects\GitHub\QuantumGates\QuantumGates\bin\Debug\netcoreapp2.0\QuantumGates.dll
+C:\Projects\GitHub\QuantumGates\QuantumGates\bin\Debug\netcoreapp2.0\QuantumGates.pdb
+C:\Projects\GitHub\QuantumGates\QuantumGates\obj\Debug\netcoreapp2.0\QuantumGates.dll
+C:\Projects\GitHub\QuantumGates\QuantumGates\obj\Debug\netcoreapp2.0\QuantumGates.pdb
