@@ -1,0 +1,10 @@
+C:\Projects\GitHub\QuantumGates\QuantumGames\obj\Debug\netcoreapp2.1\QuantumGames.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\QuantumGates\QuantumGames\obj\Debug\netcoreapp2.1\QuantumGames.AssemblyInfoInputs.cache
+C:\Projects\GitHub\QuantumGates\QuantumGames\obj\Debug\netcoreapp2.1\QuantumGames.AssemblyInfo.cs
+C:\Projects\GitHub\QuantumGates\QuantumGames\bin\Debug\netcoreapp2.1\QuantumGames.deps.json
+C:\Projects\GitHub\QuantumGates\QuantumGames\bin\Debug\netcoreapp2.1\QuantumGames.runtimeconfig.json
+C:\Projects\GitHub\QuantumGates\QuantumGames\bin\Debug\netcoreapp2.1\QuantumGames.runtimeconfig.dev.json
+C:\Projects\GitHub\QuantumGates\QuantumGames\bin\Debug\netcoreapp2.1\QuantumGames.dll
+C:\Projects\GitHub\QuantumGates\QuantumGames\bin\Debug\netcoreapp2.1\QuantumGames.pdb
+C:\Projects\GitHub\QuantumGates\QuantumGames\obj\Debug\netcoreapp2.1\QuantumGames.dll
+C:\Projects\GitHub\QuantumGates\QuantumGames\obj\Debug\netcoreapp2.1\QuantumGames.pdb
